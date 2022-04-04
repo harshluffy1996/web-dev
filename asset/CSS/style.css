@@ -1,5 +1,6 @@
 body {
     background-color: #EAF6F6;
+    font-family: 'Segoe Script', serif;
   }
   hr {
     border-style: none;
@@ -8,3 +9,9 @@ body {
     border-width: 6px;
     width: 5%;
   }
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
